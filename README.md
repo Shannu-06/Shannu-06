@@ -174,20 +174,15 @@ Industry 4.0 & IIoT
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shannu-06&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shannu-06&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Shannu-06&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shannu-06&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shannu-06&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shannu-06&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
